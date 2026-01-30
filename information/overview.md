@@ -8,12 +8,12 @@ This document outlines the navigation structure of the portfolio website [https:
 
 The website's main navigation menu is accessible from all pages and includes the following links:
 
-1. **Home**: [https://betstriki.netlify.app/](https://xzonekigali.netlify.app/)
-2. **Skills**: [https://nbarkiya.xyz/skills](https://xzonekigali.netlify.app/skills)
-3. **Projects**: [https://nbarkiya.xyz/projects](https://xzonekigali.netlify.app/projects)
-4. **Experience**: [https://nbarkiya.xyz/experience](https://xzonekigali.netlify.app/experience)
-5. **Contributions**: [https://nbarkiya.xyz/contributions](https://xzonekigali.netlify.app/contributions)
-6. **Contact**: [https://nbarkiya.xyz/contact](https://xzonekigali.netlify.app/contact)
+1. **Home**: [https://xzonekigali.netlify.app/](https://xzonekigali.netlify.app/)
+2. **Skills**: [https://xzonekigali.netlify.app/skills](https://xzonekigali.netlify.app/skills)
+3. **Projects**: [https://xzonekigali.netlify.app/projects](https://xzonekigali.netlify.app/projects)
+4. **Experience**: [https://xzonekigali.netlify.app/experience](https://xzonekigali.netlify.app/experience)
+5. **Contributions**: [https://xzonekigali.netlify.app/contributions](https://xzonekigali.netlify.app/contributions)
+6. **Contact**: [https://xzonekigali.netlify.app/contact](https://xzonekigali.netlify.app/contact)
 
 ---
 
@@ -21,7 +21,7 @@ The website's main navigation menu is accessible from all pages and includes the
 
 ### 1. Home
 
-**URL:** [https://nbarkiya.xyz/](https://xzonekigali.netlify.app/)
+**URL:** [https://xzonekigali.netlify.app/](https://xzonekigali.netlify.app/)
 
 **Sections:**
 
@@ -41,7 +41,7 @@ The website's main navigation menu is accessible from all pages and includes the
 
 ### 3. Projects
 
-**URL:** [https://nbarkiya.xyz/projects](https://xzonekigali.netlify.app/projects)
+**URL:** [https://xzonekigali.netlify.app/projects](https://xzonekigali.netlify.app/projects)
 
 **Sections:**
 
@@ -49,7 +49,7 @@ The website's main navigation menu is accessible from all pages and includes the
 
 ### 4. Experience
 
-**URL:** [https://nbarkiya.xyz/experience](https://xzonekigali.netlify.app/experience)
+**URL:** [https://xzonekigali.netlify.app/experience](https://xzonekigali.netlify.app/experience)
 
 **Sections:**
 
@@ -57,7 +57,7 @@ The website's main navigation menu is accessible from all pages and includes the
 
 ### 5. Contributions
 
-**URL:** [https://nbarkiya.xyz/contributions](https://xzonekigali.netlify.app/contributions)
+**URL:** [https://xzonekigali.netlify.app/contributions](https://xzonekigali.netlify.app/contributions)
 
 **Sections:**
 
@@ -65,7 +65,7 @@ The website's main navigation menu is accessible from all pages and includes the
 
 ### 6. Contact
 
-**URL:** [https://nbarkiya.xyz/contact](https://xzonekigali.netlify.app/contact)
+**URL:** [https://xzonekigali.netlify.app/contact](https://xzonekigali.netlify.app/contact)
 
 **Sections:**
 
