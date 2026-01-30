@@ -16,15 +16,15 @@ export interface ExperienceInterface {
 
 export const experiences: ExperienceInterface[] = [
   {
-    id: "ubs",
+    id: "Kwanda",
     position: "Software Development Engineer",
-    company: "UBS",
-    location: "Mumbai, India",
+    company: "Kwanda Lab",
+    location: "Kigali, Rwanda",
     startDate: new Date("2024-08-01"),
     endDate: "Present",
     description: [
       "Shipped production features within the first month for a trader-facing P&L dashboard used by global stakeholders.",
-      "Led the migration from Kendo UI to UBS’s internal design system to reduce UI inconsistencies and improve render performance.",
+      "Led the migration from Kendo UI to Kwanda Lab’s internal design system to reduce UI inconsistencies and improve render performance.",
       "Designed and automated a daily FX rate ingestion pipeline using Databricks (Python, Spark SQL) and Java services.",
     ],
     achievements: [
@@ -35,7 +35,7 @@ export const experiences: ExperienceInterface[] = [
       "Led a 12-member team in an internal hackathon to build an AI-powered tool that generates GitLab tickets, test cases, and requirement summaries.",
     ],
     skills: ["Typescript", "React", "Databricks", "Java", "Python"],
-    companyUrl: "https://www.ubs.com",
+    companyUrl: "https://www.Kwanda.com",
     logo: "/experience/keys-logo.png",
   },
   {
